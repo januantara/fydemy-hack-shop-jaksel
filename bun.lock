@@ -1,0 +1,13 @@
+{
+  "lockfileVersion": 1,
+  "workspaces": {
+    "": {
+      "dependencies": {
+        "jaksel-language": "^1.1.0",
+      },
+    },
+  },
+  "packages": {
+    "jaksel-language": ["jaksel-language@1.1.0", "", { "bin": { "jaksel": "jaksel-interpreter.js" } }, "sha512-d/e+M+RK1RISGvfVAAKMHKlai5woxUyCQbbMt5mI3d8UViuKmwYOG70l9Hg5ZozOAwuXbCu+vMJStf8z2Q3xuA=="],
+  }
+}

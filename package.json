@@ -1,0 +1,9 @@
+{
+  "name": "ecommerce-jaksel-challenge",
+  "version": "1.0.0",
+  "description": "Submission untuk Jaksel E-Commerce Challenge",
+  "main": "index.js",
+  "dependencies": {
+    "jaksel-language": "^1.1.0"
+  }
+}
